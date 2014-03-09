@@ -1,0 +1,11 @@
+---
+:ingredients:
+- :type: :installer
+  :installer_type: :custom
+  :source_url: http://ardownload.adobe.com/pub/adobe/reader/win/11.x/11.0.06/en_US/AdbeRdr11006_en_US.exe
+  :package_name: Adobe Reader XI (11.0.06)
+  :installer_options: /sPB /msi /norestart /quiet ALLUSERS=1 EULA_ACCEPT=YES
+  :support_32bit: true
+  :support_64bit: 
+:support_32bit: true
+:support_64bit: 
